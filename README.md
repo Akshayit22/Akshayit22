@@ -4,7 +4,7 @@
 - 📫 How to reach me **akshayit22@gmail.com**
 
 <h3>Live Project Links :</h3>
-<a href="https://better-blog-now.netlify.app/">BLOG full stack app</a> <br>
+<a href="https://better-blog-now.netlify.app/">Blog full stack app</a> <br>
 <a href="https://shopping-cart-reactjs-app.netlify.app/">Shopping cart app</a> <br>
 <a >Portfolio: Coming soon</a>
 <h3 align="left">Connect with me:</h3>
