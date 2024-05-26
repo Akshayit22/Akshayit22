@@ -5,6 +5,7 @@
 
 <h3>Live Project Links :</h3>
 <a href="https://better-blog-now.netlify.app/">Blog full stack app</a> <br>
+<a href="https://rentify-get-property-on-rent.netlify.app/">Rentlify full stack webapp</a> <br>
 <a href="https://shopping-cart-reactjs-app.netlify.app/">Shopping cart app</a> <br>
 <a >Portfolio: Coming soon</a>
 <h3 align="left">Connect with me:</h3>
