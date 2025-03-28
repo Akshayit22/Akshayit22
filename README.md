@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Telang</h1>
 <h3 align="center">A passionate Software Engineering student from India</h3>
-<h3 align="center">B.E. Computer@K. K. Wagh Institute of Engineering Intitute, Nashik</h3>
+<h3 align="center">B.E. Computer @ K. K. Wagh Institute of Engineering Institute, Nashik</h3>
 - 📫 How to reach me **akshayit22@gmail.com**
 
 <h3>Live Project Links :</h3>
